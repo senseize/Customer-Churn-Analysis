@@ -48,7 +48,7 @@ I opted for the OSEMiN approach, beginning with obtaining, scrubbing and explori
 
 Below is an overview of the various models built for this project and their respective performance with regards to **Training set**, **Test set**, **Precision**, **Recall** and **F-1 score**:
 
-![Model_overview](./images/Model_overview.PNG
+![Model_overview](./images/Model_overview.PNG)
 
 ## Conclusions & Actionable Insights
 
