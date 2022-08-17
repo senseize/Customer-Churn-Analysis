@@ -24,31 +24,31 @@ I opted for the OSEMiN approach, beginning with obtaining, scrubbing and explori
  - The Northeastern region of the US exhibits the highest rate of customer churn in the SyraTel dataset
  - The lowest customer churn is present in midwestern states
  
-![Region](./Images/Region.PNG)
+![Region](./images/Region.PNG)
 
 **Total Charge**
  - The level of Total charge has a clear effect on the likelihood of customer churn
  
-![Total_charge](./Images/Total_charge.PNG)
+![Total_charge](./images/Total_charge.PNG)
 
 **Customer Service Calls**
 
  - The more customer service calls a customer makes, the more likely it is for the customer to churn
  - Customer churn strongly increases after customers have made 4 service calls
  
-![customer_service_calls](./Images/customer_service_calls.png)
+![customer_service_calls](./images/customer_service_calls.png)
 
 **International Plan**
  - Customer churn is less likely im case of the presence of an international plan
  
-![International_plan](./Images/International_plan.PNG)
+![International_plan](./images/International_plan.PNG)
 
 
 ## Model Overview
 
 Below is an overview of the various models built for this project and their respective performance with regards to **Training set**, **Test set**, **Precision**, **Recall** and **F-1 score**:
 
-![Model_overview](./Images/Model_overview.PNG
+![Model_overview](./images/Model_overview.PNG
 
 ## Conclusions & Actionable Insights
 
