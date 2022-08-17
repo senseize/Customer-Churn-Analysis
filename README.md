@@ -21,29 +21,25 @@ I opted for the OSEMiN approach, beginning with obtaining, scrubbing and explori
 ## Results / Key findings
 
 **Region**
- - Most movies operate on a production budget below 25m USD
- - The highest median ROI is achieved for production budgets above 200m USD
+ - The Northeastern region of the US exhibits the highest rate of customer churn in the SyraTel dataset
+ - The lowest customer churn is present in midwestern states
  
 ![Region](./Images/Region.PNG)
 
 **Total Charge**
- - The most frequently produced genres are not necessarily the most profitable in terms of ROI
- - Animation, Horror and Adventure movies are most profitable
- - Western, War and Sport genres are least profitable
+ - The level of Total charge has a clear effect on the likelihood of customer churn
  
 ![Total_charge](./Images/Total_charge.PNG)
 
 **Customer Service Calls**
 
- - Most movies run between 90 and 120 minutes
- - The movies with the highest median return on profitability run between 120 and 150 minutes
- - Profitability is diminishing for movies with a runtime beyond 150 minutes
+ - The more customer service calls a customer makes, the more likely it is for the customer to churn
+ - Customer churn strongly increases after customers have made 4 service calls
  
 ![customer_service_calls](./Images/customer_service_calls.png)
 
 **International Plan**
- - The most successful movies are release in June/July and on Wednesdays/Thursdays
- - April and September are the least profitable months for movies releases, Mondays and Sundays the least profitable weekdays
+ - Customer churn is less likely im case of the presence of an international plan
  
 ![International_plan](./Images/International_plan.PNG)
 
