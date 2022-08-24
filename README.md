@@ -8,7 +8,7 @@ This is the **third end-of-module project in the Flatiron Online Data Science Co
 
 ## Business Problem
 
-The task at hand is to **build a classifier for the telecom business of SyraTel**, to enable the company to **reliably predict customer churn** and hence focus on retainable consumers.
+The task at hand is to **build a classifier for the telecom business of SyriaTel**, to enable the company to **reliably predict customer churn** and hence focus on retainable consumers.
 
 This is a **binary classification problem** (i.e. will the client be lost, yes or no?), trying to determine the churn via underlying patterns of customer data.
 
@@ -21,7 +21,7 @@ I opted for the OSEMiN approach, beginning with obtaining, scrubbing and explori
 ## Results / Key findings
 
 **Region**
- - The Northeastern region of the US exhibits the highest rate of customer churn in the SyraTel dataset
+ - The Northeastern region of the US exhibits the highest rate of customer churn in the SyriaTel dataset
  - The lowest customer churn is present in midwestern states
  
 ![Region](./images/Region.PNG)
