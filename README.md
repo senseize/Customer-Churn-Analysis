@@ -39,7 +39,7 @@ I opted for the OSEMiN approach, beginning with obtaining, scrubbing and explori
 ![customer_service_calls](./images/customer_service_calls.png)
 
 **International Plan**
- - Customer churn is less likely im case of the presence of an international plan
+ - Customer churn is less likely in case of the presence of an international plan
  
 ![International_plan](./images/International_plan.PNG)
 
