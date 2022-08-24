@@ -61,6 +61,8 @@ Below is an overview of the various models built for this project and their resp
 For any questions, please contact me at **kontakt@oliverzimmer.eu**
 
 ## Repository Structure
+
+```
 ├── data
 ├── images
 ├── CONTRIBUTING.md
@@ -68,4 +70,4 @@ For any questions, please contact me at **kontakt@oliverzimmer.eu**
 ├── LICENSE.md
 ├── README.md
 └── SyriaTel_Customer_Churn.ipynb
-``````
+```
