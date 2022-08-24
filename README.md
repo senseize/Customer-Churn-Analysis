@@ -56,6 +56,10 @@ Below is an overview of the various models built for this project and their resp
 2. Ensure higher quality customer service, reaching a benign solution for the customer after three customer service calls in order to avoid an increased potential for churn
 3. Focus analytical efforts on the international plan as it has been shown that it has a strong influence on whether or not a customer is retained. Possible aspects to investigate are availability (churn is reduced among customer with international plans) and pricing (more affordable international plans might increase its presence, thus reducing customer churn).
 
+## Contact Information
+
+For any questions, please contact me at **kontakt@oliverzimmer.eu**
+
 ## Repository Structure
 ├── data
 ├── images
@@ -65,7 +69,3 @@ Below is an overview of the various models built for this project and their resp
 ├── README.md
 └── SyriaTel_Customer_Churn.ipynb
 ``````
-
-## Contact Information
-
-For any questions, please contact me at **kontakt@oliverzimmer.eu**
